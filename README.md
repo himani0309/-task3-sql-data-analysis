@@ -2,7 +2,7 @@
 
 # Task 3: SQL for Data Analysis
 
-## ✅ Objective
+## Objective
 
 This task involves writing and executing SQL queries to extract insights from an e-commerce-style dataset using PostgreSQL. The goal was to apply SQL concepts like filtering, joins, aggregations, subqueries, views, and indexing.
 
@@ -16,7 +16,7 @@ This task involves writing and executing SQL queries to extract insights from an
 
 ---
 
-## 📁 Dataset Structure
+## Dataset Structure
 
 ### `customers`
 | Column       | Type          |
@@ -35,7 +35,7 @@ This task involves writing and executing SQL queries to extract insights from an
 
 ---
 
-## 📌 SQL Concepts Used
+## SQL Concepts Used
 
 1. **Basic Queries:**
    ```sql
